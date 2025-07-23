@@ -15,7 +15,7 @@ proxy = {
 
 
 proxy = None # add proxy settings. IF the proxy is public, you can provide empty username and password
-cookies = None # current library implementation depends on Nodriver cookies handling.
+cookies = None # current library implementation depends on zendriver cookies handling.
 cookies_directory = 'cookies' # directory where you want to save/load the cookies 'username_cookies.dat'
 user_agent = None
 disable_images = True # disable loading images while fetching

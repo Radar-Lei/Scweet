@@ -146,8 +146,9 @@ email, password = create_mailtm_email()
 ## 🔧 Installation
 
 ```bash
-pip install Scweet
+pip install -r requirements.txt
 ```
+
 Requires **Python 3.7+** and a Chromium-based browser.
 
 ---

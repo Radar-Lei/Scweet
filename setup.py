@@ -37,7 +37,6 @@ setup(
       'urllib3',
       'PyVirtualDisplay',
       'beautifulsoup4==4.12.3',
-      'nodriver==0.38.post1',
       'requests'
   ],
   classifiers=[
